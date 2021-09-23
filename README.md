@@ -1,7 +1,7 @@
 
 #  I2C RTC DS1307 boot scripts for Raspberry Pi (for Arch Linux ARM)
 
-These scripts load and initiate I2C DS1307 RTC module as a hardware clock in arch linux arm on every boot. These can be packaged as arch linux package using `makepkg` in `build-devel`.
+These scripts load and initiate I2C DS1307 RTC module as a hardware clock in arch linux arm on every boot. These can be packaged as arch linux package using `makepkg` in `base-devel`.
 
 It's available on the [AUR](https://wiki.archlinux.org/title/Arch_User_Repository) as [raspberrypi-rtc-ds1307](https://aur.archlinux.org/packages/raspberrypi-rtc-ds1307/) and can be easily installed using an AUR helper like [PARU](https://github.com/Morganamilo/paru),
 
